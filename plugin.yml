@@ -1,0 +1,8 @@
+main: com.kuriji.betterexp.BetterExp
+version: 1.0.0
+name: BetterExp
+
+commands:
+  BetterExp:
+    description: Defines version for BetterExp.
+
